@@ -1,19 +1,39 @@
-# Siege of Crowns
+# 🏰 Siege Of Crowns
 
-Descrição breve do que o projeto faz.
-
-## 🚀 Tecnologias
-- Lua
-- Roblox Studio
-## 📦 Como usar
-1. Instalar o Roblox Player e iniciar o seguinte link:
+## 📖 Documentação do Projeto
 
 
-## 📸 Imagens
-(Adicione prints aqui se quiser)
+---
 
-## 🤝 Contribuição
+## 🎯 Visão Geral
 
+---
 
-## 📄 Licença
-Este projeto está sob a licença Creative Commons.
+## ⚙️ Principais Funcionalidades
+- Sistema de combate em tempo real  
+- Multiplayer online  
+- Interface interativa para o jogador  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- Roblox Studio  
+- Linguagem Lua (baseada em Lua)  
+- Sistema de física e renderização do Roblox  
+
+---
+
+## ▶️ Como Executar
+1. Instale o Roblox Player e execute o seguinte link:
+
+## 🎮 Controles 
+
+## 📜 Regras do jogo
+
+## 🗂️ Estrutura do Projeto
+
+## 🎨 Organização dos Assets
+
+## 📝 Observações
+
+## 👥 Créditos

@@ -35,6 +35,32 @@
 ---
 ## 🗂️ Estrutura do Projeto
 
+'''text 
+Siege-Of-Crowns.main/
+├── main.py
+├── README.md
+
+├── docs/
+│   ├── sdd
+│        └── SDD.md
+│   ├── Sounds.md
+
+├── Cenário/
+├── Caverna.rbxm
+├── Cenário.rbxm
+├── Mapa.rbxm
+├── Mobs.rbxm
+├── Montanhas.rbxm
+├── Towers.rbxm
+├── Waypoints.rbxm
+
+├── Scripts/
+       └── Scripts/
+       ├── CollisionConfig.luau
+       ├── GameConfig.luau
+       ├── GladiatorCollisionSetup.luau
+       ├── Main.rbxmx
+
 ---
 ## 🎨 Organização dos Assets
 

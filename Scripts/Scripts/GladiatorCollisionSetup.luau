@@ -25,7 +25,8 @@ PhysicsService:CollisionGroupSetCollidable(PLAYER_GROUP, PREVIEW_GROUP, false)
 local function setCollisionGroupForModel(model, groupName)
 	for _, descendant in ipairs(model:GetDescendants()) do
 		if descendant:IsA("BasePart") then
-			PhysicsService:SetPartCollisionGroup(descendant, groupName)
+			descendant.CollisionGroup = groupName
+			descendant.Anchored = true -- Ancora todas as partes para evitar problemas de física
 		end
 	end
 end
@@ -38,7 +39,7 @@ local function setupGladiator()
 		-- Desativa pulo automático para evitar que o gladiador pule quando o jogador chega perto
 		local humanoid = gladiator:FindFirstChild("Humanoid")
 		if humanoid then
-			humanoid.AutoJumpEnabled = false
+			humanoid.AutoJumpEnabled = true
 		end
 		print("[GladiatorCollision] Grupo de colisão aplicado ao gladiador")
 	end

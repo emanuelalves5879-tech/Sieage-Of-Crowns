@@ -89,6 +89,7 @@ Siege-Of-Crowns/
 │   ├── GoldCount.luau
 │   ├── GoldLeaderboard.luau
 │   ├── MobAnimations.luau
+│   ├── GameUIController.luau
 │   └── Main.rbxmx
 ```
 

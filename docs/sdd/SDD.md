@@ -119,5 +119,5 @@ A proposta sonora está alinhada ao gênero estratégico em tempo real:
 ---
 
 ## 13. Considerações finais
-os sons foram coletados dos aplicativos https://pixabay.com/ e https://opengameart.org/ são apps que sua biblioteca de áudios não apresentam direitos autorais 
+os sons foram coletados dos aplicativos https://pixabay.com/ e https://opengameart.org/ são apps que sua biblioteca de áudios não apresentam direitos autorais com licença CC0.
 O design sonoro atende aos requisitos básicos e permite expansão futura.
